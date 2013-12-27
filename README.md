@@ -4,7 +4,7 @@ Android-fans
 该仓库用于Android-fans论坛学习git使用
 
 1. 开发人员：A,B,C
-2. A ,B具有仓库权限 ，C为贡献着，无写入权限
+2. A ,B具有仓库权限 ，C为贡献着（任何人都可），无写入权限
 3. A 在master分支建立基准代码（新建android工程）。
 4. A 在master分支基准上建立 develop 远程分支。
 5. A ,B在develop分支开发任务。A 开发 AActivity。B 开发 BActivity。B开发速度快，开发完成提交develop。B发现代码效率低，决定使用新办法，又无完全把握，故新建特性分支FeatureA开发。
@@ -18,3 +18,7 @@ Android-fans
 13. A 加入2.0和B共同开发。
 14. 由于该项目为开源项目，长期潜水在Android-fans论坛的C发现了该项目，决定助一臂之力，so C fork了该项目，增加CActivity，通过电子邮件联系了A，发出了一个pull request。A 接收了C的pull request，并合并到当前分支中。
 15. continue....
+
+
+
+联系方式：tadeshanc@gmail.com
