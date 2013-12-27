@@ -9,8 +9,9 @@
     tools:context=".BActivity" >
 
     <TextView
+        android:id="@+id/btn"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="开玩笑，这可是提升了一百倍的性能哇，颤抖吧凡人！" />
+        android:text="android_fans" />
 
 </RelativeLayout>

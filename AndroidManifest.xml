@@ -26,6 +26,10 @@
             android:name="com.android_fans.test.BActivity"
             android:label="@string/title_activity_b" >
         </activity>
+        <activity
+            android:name="com.android_fans.test.B2Activity"
+            android:label="@string/title_activity_b2" >
+        </activity>
     </application>
 
 </manifest>
