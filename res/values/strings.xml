@@ -6,5 +6,6 @@
     <string name="hello_world">Hello world!</string>
     <string name="title_activity_b">BActivity</string>
     <string name="title_activity_b2">B2Activity</string>
+    <string name="title_activity_b3">B3Activity</string>
 
 </resources>

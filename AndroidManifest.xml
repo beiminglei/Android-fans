@@ -30,6 +30,10 @@
             android:name="com.android_fans.test.B2Activity"
             android:label="@string/title_activity_b2" >
         </activity>
+        <activity
+            android:name="com.android_fans.test.B3Activity"
+            android:label="@string/title_activity_b3" >
+        </activity>
     </application>
 
 </manifest>
